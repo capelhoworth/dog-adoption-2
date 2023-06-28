@@ -50,3 +50,19 @@ img {
   margin: 3px;
   padding: 1px;
 }
+
+footer {
+  display: flex;
+  flex: 1 1 auto;
+  font-family: oswald;
+  font-size: 180%;
+}
+
+.footer-card {
+  border: 2px solid black;
+  height: 150px;
+  width: 33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
